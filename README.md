@@ -19,6 +19,15 @@ Bu araç, özellikle 24H2 Windows güncellemesi sonrasında ortaya çıkan görs
 - **Windows Update Hizmetlerini Başlatma:** Daha önce durdurduğunuz Windows Update ve BITS hizmetlerini yeniden başlatabilirsiniz.
 - **Gerçek Zamanlı Geri Bildirim:** İşlemler sırasında ilerleme çubuğu ve log alanı sayesinde neyin ne zaman gerçekleştiğini anlık olarak takip edebilirsiniz.
 
+## 📦 **Kurulum**
+
+1. **Releases Sayfasından İndir:**
+   - [Releases](https://github.com/RWAZONE/Windows-24H2-BugFixer/releases) sayfasına gidin.
+   - En son sürümü bulun ve `RWAZONE-24H2-BugFixer-v1.0.zip` dosyasını indirin.
+
+2. **Arşivi Çıkartın:**
+   - İndirdiğiniz `RWAZONE-24H2-BugFixer-v1.0.zip` dosyasını istediğiniz bir klasöre çıkartın.
+
 ## 📋 **Kullanım Rehberi**
 
 1. **Aracı Başlatın:**
