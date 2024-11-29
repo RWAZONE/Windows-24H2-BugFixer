@@ -58,6 +58,10 @@ Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [destek@rwazone.com](
 
 ### 🎉 **Sürüm Notları**
 
+**v1.1 - Küçük Güncelleme**
+- KB:5046740 güncellemesini kaldırırken yaşanan BITS işlemi başlatma hatası çözümü.
+- Arayüz hataları çözümü.
+
 **v1.0 - İlk Yayın** 🎉
 - Temel işlevler: KB kaldırma, Windows Update hizmetlerini durdurma ve başlatma.
 - Kullanıcı dostu arayüz.
