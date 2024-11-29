@@ -23,10 +23,10 @@ Bu araç, özellikle 24H2 Windows güncellemesi sonrasında ortaya çıkan görs
 
 1. **Releases Sayfasından İndir:**
    - [Releases](https://github.com/RWAZONE/Windows-24H2-BugFixer/releases) sayfasına gidin.
-   - En son sürümü bulun ve `RWAZONE-24H2-BugFixer-v1.0.zip` dosyasını indirin.
+   - En son sürümü bulun ve `RWAZONE-24H2-BugFixer-v1.1.zip` dosyasını indirin.
 
 2. **Arşivi Çıkartın:**
-   - İndirdiğiniz `RWAZONE-24H2-BugFixer-v1.0.zip` dosyasını istediğiniz bir klasöre çıkartın.
+   - İndirdiğiniz `RWAZONE-24H2-BugFixer-v1.1.zip` dosyasını istediğiniz bir klasöre çıkartın.
 
 ## 📋 **Kullanım Rehberi**
 
